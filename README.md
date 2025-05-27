@@ -7,7 +7,7 @@ Bu rehber, Ubuntu tabanlı bir sunucuda `Sepolia Ethereum (Geth)` ve `Beacon (Pr
 - **OS**: Ubuntu 20.04 veya üzeri
 - **RAM**: 8-16 GB
 - **CPU**: 4-6 çekirdek
-- **Disk**: En az 600 GB SSD
+- **Disk**: En az 800 GB SSD
 
 ---
 
